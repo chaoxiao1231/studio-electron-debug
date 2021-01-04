@@ -1,8 +1,8 @@
-version: 0.0.2
+version: 0.1.3
 files:
-  - url: onenet studio助手 Setup 0.0.2.exe
-    sha512: uGR7Bnz6kOyiaeGDxtniMcgk+H0sU24Ht2kyKEnUvHweuNrELnaJQxf0+mEwvfq4prwrlO/OcKOVAZvcZ6t8lg==
-    size: 49248286
-path: onenet studio助手 Setup 0.0.2.exe
-sha512: uGR7Bnz6kOyiaeGDxtniMcgk+H0sU24Ht2kyKEnUvHweuNrELnaJQxf0+mEwvfq4prwrlO/OcKOVAZvcZ6t8lg==
-releaseDate: '2020-12-23T02:55:52.838Z'
+  - url: OneNET Studio助手 Setup 0.1.3.exe
+    sha512: RzNR8am7OC1M/1E0ieAOEdp9hgD0kIys1EaqarkI2RAZE7gPBtX6s+v8TYLcrv99bdaUWrsa/hNr7IYVa2GQiQ==
+    size: 49250479
+path: OneNET Studio助手 Setup 0.1.3.exe
+sha512: RzNR8am7OC1M/1E0ieAOEdp9hgD0kIys1EaqarkI2RAZE7gPBtX6s+v8TYLcrv99bdaUWrsa/hNr7IYVa2GQiQ==
+releaseDate: '2021-01-04T01:26:36.326Z'
